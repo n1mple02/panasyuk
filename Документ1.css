@@ -77,12 +77,12 @@ nav li a {
 
     font-family: Consolas, monaco, monospace;
 
-    color: white;
+    color: yellow;
 
 }
 nav ul li:hover {
 
-    background-color: skyblue;
+    background-color: red;
 
 }
 nav ul li ul {
@@ -133,7 +133,7 @@ nav ul li ul li {
 }
 nav ul li ul li:hover {
 
-background-color: steelblue;
+background-color: white;
 
 }
 
@@ -179,8 +179,8 @@ footer {
 
 width: 1062px;
 
-background: grey;
+background: green;
 
-color: white;
+color: blue;
 
 }
