@@ -107,15 +107,15 @@ body {
    color: #ffffff;
 }
 .img-background--sea {
-     background-image: https://github.com/n1mple02/panasyuk/blob/main/0738da42b011200809bd09f67d258b28.1000x1000x1.png( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото1');
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/0738da42b011200809bd09f67d258b28.1000x1000x1.png');
 }
 
 .img-background--wave {
-     background-image: https://github.com/n1mple02/panasyuk/blob/main/Opera%20Снимок_2023-03-23_135951_lastfm.freetls.fastly.net.png( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото2');
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/Opera%20Снимок_2023-03-23_135951_lastfm.freetls.fastly.net.png');
 }
 
 .img-background--horizon {
-     background: https://github.com/n1mple02/panasyuk/blob/main/0738da42b011200809bd09f67d258b28.1000x1000x1.png( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото3');
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/оксимирон.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      color: #fff;
