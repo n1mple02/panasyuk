@@ -96,15 +96,15 @@ body {
 }
 .theme-gray {
    background: #808080;
-   color: #ffffff;
+   color: gray;
 }
 .theme-white {
    background: #808080;
-   color: #ffffff;
+   color: white;
 }
 .theme-black {
    background: #808080;
-   color: #ffffff;
+   color: black;
 }
 .img-background--sea {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/0738da42b011200809bd09f67d258b28.1000x1000x1.png');
