@@ -111,15 +111,15 @@ body {
 }
 
 .img-background--oxy1 {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/oxy1.png');
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/n1mple02/panasyuk/main/oxy1.png');
 }
 
 .img-background--oxy2 {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/oxy2.jpg');
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/n1mple02/panasyuk/main/oxy2.jpg');
 }
 
 .img-background--oxy3 {
-     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/oxy3.jpg');
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/n1mple02/panasyuk/main/oxy3.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      color: #fff;
