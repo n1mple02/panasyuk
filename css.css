@@ -1,12 +1,10 @@
 * {
      box-sizing: border-box;
 }
-
 body {
      background: #1c1e22;
      color: #fff;
 }
-
 .support-warning {
      background: #ccb11c;
      color: #000;
@@ -22,24 +20,19 @@ body {
      width: 100%;
      z-index: 5;
 }
-
 .support-warning a {
      color: inherit;
 }
-
 .l-grid {
      display: flex;
      flex-wrap: wrap;
 }
-
 .l-grid > .l-grid__item {
      flex: 1 0 auto;
 }
-
 .l-grid--4x4 > .l-grid__item {
      width: 25%;
 }
-
 @supports(display: grid) {
      .support-warning {
           display: none;
@@ -53,34 +46,27 @@ body {
           display: grid;
      }
 }
-
 .l-grid--4x4 {
      grid-template-columns: repeat(4, 1fr);
      grid-template-rows: repeat(3, minmax(13rem, 1fr));
 }
-
 .l-span-column-2 {
      grid-column-start: span 2;
 }
-
 .l-span-row-2 {
      grid-row-start: span 2;
 }
-
 .l-full-height {
      min-height: 100vh;
 }
-
 .align-center {
      align-items: center;
      justify-content: center;
 }
-
 .content {
      padding: 3.5rem;
      max-width: 400px;
 }
-
 .heading {
      font-family: '?', serif;
      font-size: 1.5rem;
@@ -88,7 +74,6 @@ body {
      line-height: 1.2;
      margin-bottom: 1rem;
 }
-
 .description {
      font-family: '?', sans-serif;
      font-size: 1rem;
@@ -106,16 +91,16 @@ body {
    background: #000000;
    color: #000000;
 }
-.0738da42b011200809bd09f67d258b28.1000x1000x1 {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/0738da42b011200809bd09f67d258b28.1000x1000x1.png');
+.img-background--oxy1 {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/oxy1.png');
 }
 
-.Opera%20Снимок_2023-03-23_135951_lastfm.freetls.fastly.net {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/Opera%20Снимок_2023-03-23_135951_lastfm.freetls.fastly.net.png');
+.img-background--oxy2 {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/oxy2.jpg');
 }
 
-.оксимирон {
-     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/оксимирон.jpg');
+.img-background--oxy3 {
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://github.com/n1mple02/panasyuk/blob/main/oxy3.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      color: #fff;
