@@ -95,15 +95,15 @@ body {
      line-height: 1.5;
 }
 .theme-gray {
-   background: #808080;
+   background: gray;
    color: gray;
 }
 .theme-white {
-   background: #808080;
+   background: white;
    color: white;
 }
 .theme-black {
-   background: #808080;
+   background: black;
    color: black;
 }
 .img-background--sea {
