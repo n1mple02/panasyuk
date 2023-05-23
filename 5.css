@@ -47,11 +47,11 @@ background-color: #FFF;
 }
 
 .gallery .mainImg i.fa-chevron-left {
- color: #FFF;
+ color: #000000;
   left: 0;
 }
 .gallery .mainImg i.fa-chevron-right {
- color: #FFF;
+ color: #000000;
   right: 0;
 }
 
