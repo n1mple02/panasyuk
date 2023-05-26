@@ -1,0 +1,133 @@
+* {
+
+    box-sizing: border-box;
+
+}
+
+body {
+
+    font-family: 'married typefaces', sans-serif;
+
+}
+
+.scene {
+    width: 100%;
+    height: 100%;
+    min-height: 500px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url(https://free-png.ru/wp-content/webp-express/webp-images/uploads/2020/03/bakteriya-koronavirusa-png-340x340.png.webp) #64959F;
+    transform: translate3d(0, 0, 0);
+}
+
+.scene-background__5 {
+    animation: animation_fg linear 100s infinite both;
+    background: url(https://pngimg.com/uploads/skyscraper/skyscraper_PNG39.png) 0 100% repeat-x;
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: auto 512px;
+}
+
+.scene-background__4 {
+    animation: animation_fg linear 90s infinite both;
+    background:
+        url(https://free-png.ru/wp-content/webp-express/webp-images/uploads/2020/10/varfejs-4b88093e-340x214.png.webp) 0 100% repeat-x;
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: auto 255px;
+}
+
+.scene-background__3 {
+    animation: animation_fg linear 70s infinite both;
+    background:
+        url(https://free-png.ru/wp-content/webp-express/webp-images/uploads/2023/01/free-png.ru-339-195x340.png.webp) 0 100% repeat-x;
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;   
+    background-size: 271px 556px;
+}
+
+.scene-background__2 {
+    animation: animation_fg linear 65s infinite both;
+    background:
+        url(https://free-png.ru/wp-content/webp-express/webp-images/uploads/2023/01/free-png.ru-380-340x190.png.webp) 0 100% repeat-x;
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;    
+    background-size: 178px 183px;
+
+}
+
+.scene-background__1 {
+    animation: animation_fg linear 50s infinite both;
+    background:
+        url(https://thumbs.dreamstime.com/b/%D0%B2%D0%B8%D0%B4-%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83-%D0%B0%D1%81%D1%84%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D1%84%D0%BE%D0%BD%D0%B0-167042341.jpg) 0 100% repeat-x;
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: auto 81px;
+}
+
+.scene-object__1 {
+    background:
+        url(https://www.pngall.com/wp-content/uploads/4/Standing-Jason-Statham.png) 0 100% no-repeat;
+    z-index: 1;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: auto 310px;
+    animation: animation_object linear 13s infinite both;
+}
+
+.scene-object__2 {
+    background:
+        url(https://pngimg.com/uploads/shawarma/shawarma_PNG50.png) 0 100% no-repeat;
+    z-index: 1;
+    position: absolute;
+    bottom: 200px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: auto 110px;
+    animation: animation_object linear 10s infinite both;
+}
+
+@keyframes animation_fg {
+    0% {
+        background-position: 2765px 100%;
+    }
+
+    100% {
+        background-position: 550px 100%;
+    }
+}
+
+@keyframes animation_object {
+    0% {
+        background-position: -300px 100%;
+    }
+
+    100% {
+        background-position: 2000px 100%;
+    }
+}
