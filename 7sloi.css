@@ -18,7 +18,7 @@ transform: translate3d(0, 0, 0);
 
 .animation-sloi-1 {
 animation: animation_fg linear 30s infinite both;
-background: url(https://www.seekpng.com/png/full/4-42485_free-images-toppng-best-banner-library-download-lens.png) 0 100% repeat-x;
+background: url(https://w7.pngwing.com/pngs/93/580/png-transparent-body-of-water-sea-texture-blue-computer-thumbnail.png) 0 100% repeat-x;
 z-index: 1;
 position: absolute;
 bottom: 0;
@@ -30,7 +30,7 @@ background-size: auto 512px;
 
 .animation-sloi-2 {
 animation: animation_fg linear 55s infinite both;
-background: url(https://raw.githubusercontent.com/n1mple02/panasyuk/main/изображение_2023-05-28_141758983.png) 0 100% repeat-x;
+background: url(https://w7.pngwing.com/pngs/69/773/png-transparent-landscape-graphy-of-desert-sand-pattern-desert-desert-border-texture-border-texture-orange.png) 0 100% repeat-x;
 z-index: 1;
 position: absolute;
 bottom: 0;
@@ -42,7 +42,7 @@ background-size: auto 345px;
 
 .animation-sloi-3 {
 animation: animation_fg linear 75s infinite both;
-background: url(https://raw.githubusercontent.com/n1mple02/panasyuk/main/sloi%2099.png) 0 100% repeat-x;
+background: url(https://img.favpng.com/23/16/4/scorpion-png-favpng-fZf3bhhmJJYq7ZZV9reC9rDTP.jpg) 0 100% repeat-x;
 z-index: 1;
 position: absolute;
 bottom: 0;
@@ -52,21 +52,9 @@ height: 100%;
 background-size: auto 295px;
 }
 
-.animation-sloi-4 {
-animation: animation_fg linear 95s infinite both;
-background: url(https://raw.githubusercontent.com/n1mple02/panasyuk/main/25-7CHZu57rw-transformed.png) 0 100% repeat-x;
-z-index: 1;
-position: absolute;
-bottom: 0;
-left: 0;
-width: 100%;
-height: 100%;
-background-size: auto 300px;
-}
-
 .animation-sloi-5 {
 animation: animation_fg linear 120s infinite both;
-background: url(https://raw.githubusercontent.com/n1mple02/panasyuk/main/23-FP7i1QH7Z-transformed.png) 0 100% repeat-x;
+background: url(https://raw.githubusercontent.com/n1mple02/panasyuk/main/24-bScTlQ59V-transformed.png) 0 100% repeat-x;
 z-index: 1;
 position: absolute;
 bottom: 0;
@@ -77,7 +65,7 @@ background-size: auto 94px;
 }
 
 .animation-sloi-6 {
-background: url(https://raw.githubusercontent.com/n1mple02/panasyuk/main/1644632404_4-adonius-club-p-ptitsi-animatsiya-na-prozrachnom-fone-24-transformed.png) 0 100% no-repeat;
+background: url(https://e7.pngegg.com/pngimages/996/464/png-clipart-green-volkswagen-beetle-car-volkswagen-beetle-vacation-automotive-design-travel-compact-car-vintage-car.png) 0 100% no-repeat;
 z-index: 1;
 position: absolute;
 bottom: 100px;
@@ -89,7 +77,7 @@ animation: animation_star linear 10s infinite both;
 }
 
 .animation-sloi-7 {
-background: url(https://raw.githubusercontent.com/n1mple02/panasyuk/main/24-bScTlQ59V-transformed.png) 0 100% no-repeat;
+background: url(http://images.fineartamerica.com/images/artworkimages/mediumlarge/3/tumbleweed-on-white-backgroiund-barbara-ash.jpg) 0 100% no-repeat;
 z-index: 1;
 position: absolute;
 bottom: 100px;
