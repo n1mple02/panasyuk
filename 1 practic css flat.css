@@ -69,19 +69,16 @@
  font-family: 'Source Sans Pro', sans-serif;
 }
 
-#flat .green {
+.gg {
   color: green;
-  font-size:100%;
 }
 
-#flat .orange {
+.og {
   color: orange;
-  font-size:100%;
 }
 
-#flat .red {
+.rg {
   color: red;
-  font-size:100%;
 }
 
 #flat .title {
