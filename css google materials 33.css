@@ -247,7 +247,7 @@
   color: rgba(0, 0, 255) !important; 
 }
 
-.bukva
+.bukva {
 float: left;
  font-size: 84px;
  line-height: 64px;
@@ -256,4 +256,4 @@ float: left;
  padding-left: 3px;
  font-family: 'Roboto', sans-serif;
 color: #000000
-
+}
