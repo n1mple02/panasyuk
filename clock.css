@@ -1,20 +1,22 @@
 :root {
 
-  --primary-light: #FF69B4;
+  --primary-light: #1a5c13;
 
-  --primary: #FF1493;
+  --primary: #15c252;
 
-  --primary-dark: #C71585;
+  --primary-dark: #263e0f;
 
   --white: #FFFFFF;
 
-  --LightPink-1: #E6E6fA;
+  --LightGreen-1: #3efa05;
 
-  --Pink-2: ##C3BBF0;
+  --Green-2: #86e87c;
 
-  --Violet-3: #9E9EE2;
+  --Mint-3: #bbeb9a;
 
-  --PaleVioletRed: #2A52BE;
+  --Viridian: #7be970;
+
+  --darkgreen: #167a3b;
 
 }
 *, *::before, *::after {
